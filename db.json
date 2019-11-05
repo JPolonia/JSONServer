@@ -1,4 +1,13 @@
 {
+  "freguesias": [
+    { "id": 1, "name": "Aldoar" },
+    { "id": 2, "name": "Bonfim" },
+    { "id": 3, "name": "Campanha" },
+    { "id": 4, "name": "Cedofeita" },
+    { "id": 5, "name": "Lordelo" },
+    { "id": 6, "name": "Paranhos" },
+    { "id": 7, "name": "Ramalde" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
